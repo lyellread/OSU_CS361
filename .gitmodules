@@ -1,0 +1,3 @@
+[submodule "stock-predictor"]
+	path = stock-predictor
+	url = git@github.com:cs361-stock-prediction/stock-predictor.git
